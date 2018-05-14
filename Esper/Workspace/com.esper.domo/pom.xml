@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.esper.domo</groupId>
+  <artifactId>com.esper.domo</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>Esper.Demo</name>
+  <description>esper demo</description>
+  <modules>
+  	<module>EsperDemo-HelloWorld</module>
+  	<module>EsperDemo-EventType</module>
+  	<module>EsperDemo-Context</module>
+  	<module>EsperDemo-EPL</module>
+  </modules>
+  
+  <dependencies>
+  	<!-- https://mvnrepository.com/artifact/com.espertech/esper -->
+	<dependency>
+	    <groupId>com.espertech</groupId>
+	    <artifactId>esper</artifactId>
+	    <version>4.9.0</version>
+	</dependency>
+  </dependencies>
+</project>

